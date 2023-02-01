@@ -1,16 +1,7 @@
-# destini
+# Destini
 
-Simple "choose your own adventure" game
+Simple cross-platform mobile game that let's the user "choose their own adventure". The game was developed using Dart and Flutter.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/90746623/215927283-949750cb-418f-426d-8628-32cc60008c39.png" width="296" height="527"/><img src="https://user-images.githubusercontent.com/90746623/215927285-e9b8a7b3-a583-48ab-ae00-102364fd9f33.png" width="296" height="527"/> 
